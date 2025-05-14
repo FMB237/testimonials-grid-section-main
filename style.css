@@ -204,12 +204,12 @@ body{
     }
     .flexContainers:nth-child(3){
         width: 20rem;
-        top: 42.5%;
+        top: 35%;
         left: 8%;
     }
     .flexContainers:nth-child(4){
         width: 35rem;
-        top: 42.5%;
+        top: 35%;
         left: 31%;
     }
      .flexContainers:nth-child(5){
