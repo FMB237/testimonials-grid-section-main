@@ -156,7 +156,7 @@ body{
     .flexContainers:nth-child(3){
       position: absolute;
       height: 16rem;
-      top:48% ;
+      top:44% ;
       left: 2%;
       width: 18rem;
     }
@@ -164,7 +164,7 @@ body{
          position: absolute;
         width: 25rem;
         left: 32.5%;
-        top: 48%;
+        top: 44%;
         height: 16rem;
 
     }
